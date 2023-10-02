@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @WenYan
-- 👀 I’m interested in beautiful web experience
+- 👀 I’m interested in beautiful web experience and really enthusiasic about learning new tech 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on meaningful projects
+
+Tools I use:
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
 <!---
 SelinYan/SelinYan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
